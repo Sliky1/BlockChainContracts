@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;  
-
+//
 contract SimlpeStorage {
     //This gets in initialized to zero!
     // <- This means that this section is a comment

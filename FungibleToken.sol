@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.17;
-
+//Token
 contract MyToken {
     //address类型的变量，用于存储此Token的发行者。用于一些权限控制
     address private owner;

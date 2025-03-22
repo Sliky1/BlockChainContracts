@@ -2,7 +2,7 @@
 pragma solidity ^0.8.17;
 
 import "@openzeppelin/contracts/token/ERC721/IERC721.sol";
-
+//IERC721
 contract SimpleCryptoKitties is ERC721 {
     uint256 public _tokenIdCounter = 1;
 

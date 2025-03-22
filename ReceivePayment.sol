@@ -2,7 +2,7 @@
 pragma solidity ^0.8.0;
 
 // import "@openzeppelin/contracts/security/ReentrancyGuard.sol"; // Import ReentrancyGuard from OpenZeppelin for production use
-
+//
 /**
  * @title ReceivePayment
  * @dev This contract allows receiving payments in Ether.

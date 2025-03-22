@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 import "@chainlink/contracts/src/v0.8/VRFConsumerBaseV2.sol";
 import "@chainlink/contracts/src/v0.8/interfaces/VRFCoordinatorV2Interface.sol";
 import "@openzeppelin/contracts/utils/Strings.sol";
-
+//ERC721
 contract OptimizedRandomAvatars is ERC721Enumerable, Ownable, VRFConsumerBaseV2 {
     using Strings for uint256;
 
