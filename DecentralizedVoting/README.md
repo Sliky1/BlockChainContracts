@@ -1,9 +1,13 @@
 ## Priming step
-1.empty [.env] CONTRACT_ADDRESS
-2.Voting terminal ：npx hardhat run --network volta scripts/deploy.js
-3.copy Generate Address to [.env] CONTRACT_ADDRESS
-4.copy Generate Address to [constant.js] contractAddress
-5.react-app terminal: npm start
+    1.empty [.env] CONTRACT_ADDRESS
+
+    2.Voting terminal ：npx hardhat run --network volta scripts/deploy.js
+
+    3.copy Generate Address to [.env] CONTRACT_ADDRESS
+
+    4.copy Generate Address to [constant.js] contractAddress
+
+    5.react-app terminal: npm start
 
 
 ## Next Optimization Direction
