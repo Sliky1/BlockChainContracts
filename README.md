@@ -27,3 +27,18 @@ Filtering/search function
 Multi-chain support (polygon, BSC)
 Privacy-protected voting via ZK-SNARKs
 Gas bill optimization module
+
+---
+
+
+## Web3 Healthcare DApp - Patient-Centric Medical Records 
+A decentralized healthcare application built with React.js frontend and Solidity smart contracts, enabling secure patient-controlled health data management on blockchain.  
+
+
+### Tech Stack
+- React.js + Ethers.js for responsive UI  
+- Solidity smart contracts (ERC-721/ERC-1155 hybrids)  
+- IPFS for decentralized file storage  
+- The Graph for query optimization  
+- Polygon POS chain for low-cost transactions  
+

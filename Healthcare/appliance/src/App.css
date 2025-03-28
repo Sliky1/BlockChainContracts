@@ -72,3 +72,62 @@
 .record-card p strong {
   color: #4CAF50;
 }
+
+.medical-record-card {
+  background-color: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-width: 450px;
+  /* 加宽以适应地址编码 */
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
+
+.card-header {
+  background-color: #f0f0f0;
+  padding: 15px;
+  border-bottom: 1px solid #e0e0e0;
+  border-radius: 8px 8px 0 0;
+}
+
+.card-header h2 {
+  margin: 0;
+  font-size: 18px;
+  color: #333;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.record-item {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.record-item:last-child {
+  margin-bottom: 0;
+}
+
+.label {
+  font-weight: bold;
+  color: #555;
+  display: inline-block;
+  width: 130px;
+  /* 适应“Doctor Address” */
+}
+
+.value {
+  color: #333;
+  flex: 1;
+  /* 占据剩余空间 */
+}
+
+.address {
+  font-family: monospace;
+  font-size: 14px;
+  word-break: break-all;
+  /* 长地址自动换行 */
+}
