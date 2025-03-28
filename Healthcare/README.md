@@ -1,3 +1,8 @@
-1.美化页面
-2.完善提交信息：添加姓名
-3.完善查询信息：添加姓名
+Before starting this app, run
+
+npm install
+Update the smart contract address and abi in Healthcare.js file.
+
+To run the project, go to terminal and type
+
+npm start
