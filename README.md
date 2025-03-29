@@ -52,8 +52,8 @@ A fully decentralized NFT/token marketplace built with React.js frontend and Sol
 
 
 ### Tech Stack
-• React + TypeScript + Wagmi hooks
-• Solidity 0.8+ with Foundry testing framework
-• LayerZero for cross-chain interoperability
-• Ceramic Network for decentralized metadata
-• Gelato Network for automated settlements
+- React + TypeScript + Wagmi hooks
+- Solidity 0.8+ with Foundry testing framework
+- LayerZero for cross-chain interoperability
+- Ceramic Network for decentralized metadata
+- Gelato Network for automated settlements
