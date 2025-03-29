@@ -44,6 +44,7 @@ A decentralized healthcare application built with React.js frontend and Solidity
 - React.js + Ethers.js for responsive UI  
 - Solidity smart contracts (ERC-721/ERC-1155 hybrids)  
 
+---
 
 ## Web3 Marketplace Dapp
 
