@@ -28,7 +28,7 @@ Ticket management dashboard
 Visualize ticket status display
 Filtering/search function
 
-3.Advanced Functions
+3. Advanced Functions
 Multi-chain support (polygon, BSC)
 Privacy-protected voting via ZK-SNARKs
 Gas bill optimization module
