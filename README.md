@@ -43,6 +43,16 @@ A decentralized healthcare application built with React.js frontend and Solidity
 
 - React.js + Ethers.js for responsive UI  
 - Solidity smart contracts (ERC-721/ERC-1155 hybrids)  
-- IPFS for decentralized file storage  
-- The Graph for query optimization  
-- Polygon POS chain for low-cost transactions  
+
+
+## Web3 Marketplace Dapp
+
+A fully decentralized NFT/token marketplace built with React.js frontend and Solidity smart contracts, enabling peer-to-peer trading without intermediaries.
+
+
+### Tech Stack
+• React + TypeScript + Wagmi hooks
+• Solidity 0.8+ with Foundry testing framework
+• LayerZero for cross-chain interoperability
+• Ceramic Network for decentralized metadata
+• Gelato Network for automated settlements
