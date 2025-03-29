@@ -1,5 +1,6 @@
 { 
     "solidity.compileUsingRemoteVersion": "v0.8.28+commit.7893614a",
-    "solidity-va.hover": true
+    "solidity-va.hover": true,
+    "git.ignoreLimitWarning": true
 }
 //
