@@ -64,7 +64,7 @@ A fully decentralized NFT/token marketplace built with React.js frontend and Sol
 
 A production-ready DApp demonstrating secure IPFS hash storage on Ethereum blockchain, featuring migration from deprecated web3.storage to Pinata cloud services.
 
-### Tech Stack  技术栈
+### Tech Stack  
 - React 18 + Vite + @thirdweb-dev/react
 - Solidity 0.8.25 (ERC-721 compatible)
 - Pinata SDK for Node.js
