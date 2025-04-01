@@ -173,7 +173,7 @@ function App() {
               // Listen for account changes in MetaMask
               window.ethereum.on("accountsChanged", async (accounts) => {
                   setAccount(accounts[0]);
-                  const signer = provider.getSigner();
+                  const signer =await provider.getSigner();
                   setSigner(signer);
                   const contract = new ethers.Contract(CONTRACT_ADDRESS, CONTRACT_ABI, signer);
                   setContract(contract);
@@ -184,7 +184,7 @@ function App() {
               const accounts = await provider.send("eth_requestAccounts", []);
               setAccount(accounts[0]);
 
-              const signer = provider.getSigner();
+              const signer =await provider.getSigner();
               setSigner(signer);
 
               const contract = new ethers.Contract(CONTRACT_ADDRESS, CONTRACT_ABI, signer);
