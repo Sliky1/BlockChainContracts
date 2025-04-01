@@ -35,7 +35,7 @@ Gas bill optimization module
 
 ---
 
-## Web3 Healthcare DApp - Patient-Centric Medical Records
+## Web3 Healthcare DApp 
 
 A decentralized healthcare application built with React.js frontend and Solidity smart contracts, enabling secure patient-controlled health data management on blockchain.  
 
